@@ -30,7 +30,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[85px] w-[1
 export const APP_NAME = 'Operation True Love';
 export const NavbarName = "Operation True Love";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. Seojin who devises a plan to win the heart of her crush, Sunjin. With the help of her friends, Seojin navigates through various comedic and heartfelt situations as she tries to execute her romantic strategy. The story explores themes of friendship, love, and self-discovery amidst the challenges of adolescence.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. Seojin who devises a plan to win the heart of her crush, Sunjin. With the help of her friends, Seojin navigates through various comedic and heartfelt situations as she tries to execute her romantic strategy. The story explores themes of friendship, love, and self-discovery amidst the challenges of adolescence.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
