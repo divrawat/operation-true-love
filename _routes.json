@@ -4,13 +4,15 @@
       "/*"
     ],
     "exclude": [
-      "/build/*",
       "/*.png",
       "/*.svg",
       "/*.webp",
       "/*.ico",
+      "/*.txt",
+      "/*.jpg",
+      "/*.jpeg",
       "/public/**",
       "/build/**",  
-      "/_next/static/**" 
+      "/_next/static/*" 
     ]
   }
